@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "LambdaSchool CSPT1 Front-End Project Week project.  Restart by D2rd",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LambdaSchool with mods by Glenn-David",
+  "license": "MIT"
+}
